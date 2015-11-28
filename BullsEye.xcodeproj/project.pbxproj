@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C0CFCCA71C0A2F18000842A5 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */; };
+		C0CFCCAB1C0A39D8000842A5 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = C0CFCCAA1C0A39D8000842A5 /* BullsEye.html */; };
 		C0EE6DAF1C078CE600184A66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */; };
 		C0EE6DB11C078CE600184A66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE6DB01C078CE600184A66 /* ViewController.swift */; };
 		C0EE6DB41C078CE600184A66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EE6DB21C078CE600184A66 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		C0CFCCAA1C0A39D8000842A5 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		C0EE6DAB1C078CE600184A66 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0EE6DB01C078CE600184A66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		C0EE6DAD1C078CE600184A66 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				C0CFCCAA1C0A39D8000842A5 /* BullsEye.html */,
 				C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */,
 				C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */,
 				C0EE6DB01C078CE600184A66 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0EE6DB91C078CE600184A66 /* LaunchScreen.storyboard in Resources */,
+				C0CFCCAB1C0A39D8000842A5 /* BullsEye.html in Resources */,
 				C0EE6DB61C078CE600184A66 /* Assets.xcassets in Resources */,
 				C0EE6DB41C078CE600184A66 /* Main.storyboard in Resources */,
 			);
