@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C0CFCCA71C0A2F18000842A5 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */; };
 		C0EE6DAF1C078CE600184A66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */; };
 		C0EE6DB11C078CE600184A66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE6DB01C078CE600184A66 /* ViewController.swift */; };
 		C0EE6DB41C078CE600184A66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EE6DB21C078CE600184A66 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		C0EE6DAB1C078CE600184A66 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0EE6DB01C078CE600184A66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		C0EE6DAD1C078CE600184A66 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				C0CFCCA61C0A2F18000842A5 /* AboutViewController.swift */,
 				C0EE6DAE1C078CE600184A66 /* AppDelegate.swift */,
 				C0EE6DB01C078CE600184A66 /* ViewController.swift */,
 				C0EE6DB21C078CE600184A66 /* Main.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0CFCCA71C0A2F18000842A5 /* AboutViewController.swift in Sources */,
 				C0EE6DB11C078CE600184A66 /* ViewController.swift in Sources */,
 				C0EE6DAF1C078CE600184A66 /* AppDelegate.swift in Sources */,
 			);
@@ -284,6 +288,7 @@
 				C0EE6DBF1C078CE600184A66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
