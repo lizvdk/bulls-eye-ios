@@ -56,6 +56,9 @@
                                 <rect key="frame" x="56" y="265" width="83" height="30"/>
                                 <animations/>
                                 <state key="normal" title="Start Over"/>
+                                <connections>
+                                    <action selector="startOver" destination="BYZ-38-t0r" eventType="touchUpInside" id="pSC-lP-hGH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoLight" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E8p-4e-Fd5">
                                 <rect key="frame" x="473" y="267" width="22" height="22"/>
